@@ -1,6 +1,6 @@
 /* 
 
-    solução da lista - exercicio 2
+    Solução da Lista de Exercícios - Exercício 2
 
 */
 
